@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Arapey&family=Gloock&display=swap');
+
 *,
 *::after,
 *::before {
@@ -6,15 +8,29 @@
   box-sizing: inherit;
 }
 
+body {
+  background-color: rgb(252, 246, 238);
+  color: #ab5129;
+}
 /* ----- HEADER ----- */
 .header {
-  display: flex;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Gloock', serif;
+  background-color: #e6ff94;
+  margin-bottom: 50px;
 }
 
 .header img{
   width: 250px;
+  margin: 0px;
 }
 
-.nav {
-  align-items: end;
+.nav-link {
+  color: #ab5129;
+  text-decoration: none;
+  margin: 8px;
+  text-align: center;
 }
+
+/* ----- HOME ----- */
