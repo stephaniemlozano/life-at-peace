@@ -8,8 +8,8 @@ const Header = () => {
       <Navbar sticky='top'>
         <Container className='nav-container'>
           <Nav className='nav' style={{ width: '100%' }} activeKey='/home'>
-            <Nav.Link href='/home'>Home</Nav.Link>
-            <Nav.Link href='/aboutus'>About Us</Nav.Link>
+            <Nav.Link href='/'>Home</Nav.Link>
+            <Nav.Link href='/about'>About</Nav.Link>
             <Nav.Link href='/services'>Services</Nav.Link>
             <Nav.Link href='/contact'>Contact</Nav.Link>
           </Nav>

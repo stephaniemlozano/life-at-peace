@@ -18,7 +18,7 @@ body {
   text-align: center;
   font-size: 30px;
   font-family: 'Gloock', serif;
-  background-color: #e6ff94;
+  background-color: #ebffa1;
   margin-bottom: 50px;
 }
 
@@ -35,3 +35,37 @@ body {
 }
 
 /* ----- HOME ----- */
+#home {
+  font-family: 'Arapey', serif;
+  font-size: 15px;
+}
+.quote {
+  text-align: center;
+}
+
+/* ----- ABOUT ----- */
+.about {
+  display: flex;
+  font-size: 19px;
+}
+
+.about img {
+  width: 240px;
+  margin: 10px;
+}
+
+.about p {
+  margin: 20px;
+}
+
+/* ----- SERVICES ----- */
+
+
+/* ----- CONTACT ----- */
+
+
+/* ----- FOOTER ----- */
+.footer {
+  margin-top: 50px;
+  text-align: center;
+}
