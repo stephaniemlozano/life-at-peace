@@ -12,6 +12,7 @@
 body {
   background-color: rgb(252, 246, 238);
   color: #ab5129;
+  scroll-behavior: smooth;
 }
 /* ----- HEADER ----- */
 .header {
@@ -41,6 +42,7 @@ body {
 }
 .quote {
   text-align: center;
+  margin-bottom: 50px;
 }
 
 /* ----- ABOUT ----- */
