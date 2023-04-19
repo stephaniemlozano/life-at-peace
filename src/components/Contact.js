@@ -4,7 +4,7 @@ const Contact = () => {
       <h3>Dania Beach, FL 33004</h3>
       <p>
         Call: <a href='tel:+9542131158'>(954)213-1158</a> or{' '}
-        <a href='mailto:lifeatpeace@gmail.com'>Email Me</a>
+        <a href='mailto:lifeatpeacetherapy@gmail.com'>Email Me</a>
       </p>
       <br />
 
